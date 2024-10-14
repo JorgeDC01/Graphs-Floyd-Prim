@@ -1,0 +1,43 @@
+5
+Eduroam1
+Eduroam2
+Eduroam3
+Eduroam4
+Eduroam5
+10
+Disp01
+Disp02
+Disp03
+Disp04
+Disp05
+Disp06
+Disp07
+Disp08
+Disp09
+Disp10
+20
+Disp01 Eduroam1 15.4
+Disp02 Eduroam2 11.2
+Eduroam1 Eduroam2 10.1
+Eduroam2 Eduroam3 12.3
+Disp03 Eduroam3 14.3
+Disp04 Eduroam4 10.1
+Disp04 Eduroam3 14.5
+Eduroam3 Eduroam4 10.1
+Eduroam3 Eduroam1 11.7
+Disp02 Eduroam1 15.5
+Disp08 Eduroam4 14.1
+Disp05 Eduroam5 7.8
+Disp06 Eduroam2 13.7
+Disp09 Eduroam5 9.5
+Disp07 Eduroam2 8.3
+Eduroam2 Eduroam4 7.2
+Eduroam4 Eduroam5 12.8
+Disp10 Eduroam1 5.8
+Disp10 Eduroam5 6.2
+Eduroam1 Eduroam5 7.5
+4
+Disp01 Disp03
+Disp04 Disp02
+Eduroam1 Disp04
+Disp09 Disp03
